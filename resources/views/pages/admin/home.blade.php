@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    ZarsTravel
+    PT. Surveyor Indonesia
 @endsection
 
 @section('content')

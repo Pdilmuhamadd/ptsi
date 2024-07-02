@@ -14,11 +14,13 @@ return new class extends Migration
     public function up()
     {
         Schema::create('tb_pengajuan', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_cabang');
+            $table->string('Active');
             $table->string('Deskripsi');
             $table->string('PIC');
-            $table->date('Tanggal');
+            $table->timestamp('Tanggal');
             $table->timestamps();
+            $table->string('status');
         });
     }
 

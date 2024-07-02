@@ -14,8 +14,12 @@ return new class extends Migration
     public function up()
     {
         Schema::create('ref_cabang', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_cabang');
             $table->string('nama_cabang');
+            $table->string('aktif');
+            $table->string('User');
+            $table->string('User_Updated');
+            $table->timestamp('Tanggal');
             $table->timestamps();
         });
     }
