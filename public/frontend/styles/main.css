@@ -29,11 +29,11 @@ body {
 }
 
 .btn-login {
-  background-color: #071C4D;
+  background-color: #184980;
   color: #fff;
 }
 .btn-login:hover {
-  background-color: #1e3771;
+  background-color: #0F67B1;
   color: #fff;
 }
 
@@ -55,11 +55,11 @@ header p {
   font-size: 22px;
 }
 header .btn-get-started {
-  background-color: #ed8535;
+  background-color: #051334;
   color: #fff;
 }
 header .btn-get-started:hover {
-  background-color: #ed8230;
+  background-color: #9BE1DD;
   color: #fff;
 }
 
@@ -118,7 +118,11 @@ header .btn-get-started:hover {
   color: #fff;
 }
 .section-popular-content .section-popular-travel .travel-button .btn-travel-details {
-  background-color: #ed8535;
+  background-color: #051334;
+  color: #fff;
+}
+.section-popular-content .section-popular-travel .travel-button .btn-travel-details:hover {
+  background-color: #9BE1DD;
   color: #fff;
 }
 .section-popular-content .section-popular-travel:hover {
@@ -189,11 +193,11 @@ header .btn-get-started:hover {
   margin-right: -20px;
 }
 .section-testimonial-content .btn-get-started {
-  background-color: #ed8535;
+  background-color: #051334;
   color: #fff;
 }
 .section-testimonial-content .btn-get-started:hover {
-  background-color: #ed8230;
+  background-color: #9BE1DD;
   color: #fff;
 }
 
@@ -350,12 +354,12 @@ header .btn-get-started:hover {
   margin-top: -16px;
 }
 .section-details-content .btn-join-now {
-  background-color: #FF9E53;
+  background-color: #051334;
   color: #fff;
   border-radius: 0;
 }
 .section-details-content .btn-join-now:hover {
-  background-color: #FFAA69;
+  background-color: #9BE1DD;
   color: #fff;
 }
 

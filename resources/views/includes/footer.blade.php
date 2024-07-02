@@ -40,10 +40,10 @@
                             GET CONNECTED
                         </h5>
                         <ul class="list-unstyled">
-                            <li><a href="#">BojongSoang</a></li>
-                            <li><a href="#">Bandung, Indonesia</a></li>
-                            <li><a href="#">0823-2308-8800</a></li>
-                            <li><a href="#">support@zarstravel.id</a></li>
+                            <li><a href="#">Jl. Gatot Subroto No.Kav. 56</a></li>
+                            <li><a href="#">Kota Jakarta Selatan, Indonesia</a></li>
+                            <li><a href="#">0215265526</a></li>
+                            <li><a href="#">surveyorindonesia@ptsi.co.id</a></li>
                         </ul>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
     <div class="container-fluid">
         <div class="row border-top justify-content-center align-items-center pt-4">
             <div class="col-auto text-gray-500 font-weight-light">
-                2019 Copyright Zars Travel • All rights reserved • Made in Bandung
+                2024 Copyright PT. Surveyor Indonesia • All rights reserved • Made in Jakarta
             </div>
         </div>
     </div>

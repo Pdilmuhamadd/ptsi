@@ -18,7 +18,7 @@
                         <a href="{{url('/')}}" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item mx-md-2">
-                        <a href=/#popular class="nav-link">Paket Travel</a>
+                        <a href=/#popular class="nav-link">Unit Cabang</a>
                     </li>
                     <li class="nav-item mx-md-2">
                         <a href="/#testimoniContent" class="nav-link">Testimonial</a>

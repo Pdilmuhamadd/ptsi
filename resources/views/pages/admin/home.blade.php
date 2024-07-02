@@ -8,11 +8,11 @@
     <!-- Header -->
     <header class="text-center">
         <h1>
-            Jelajahi Dunia bersama ZarsTravel
+            Pantau Proyek Anda dengan Mudah
         </h1>
-        <P class="mt-3">
-            Pesan dan nikmati perjalanan yang menyenangkan
-        </P>
+        <p class="mt-3">
+            Lacak kemajuan proyek dengan baik dan pastikan setiap langkah berjalan sesuai rencana.
+        </p>
         <a href="#popular" class="btn btn-get-started px-4 mt-4">
             Get Started
         </a>
@@ -31,10 +31,10 @@
                 </div>
                 <div class="col-3 col-md-2 stats-detail">
                     <h2>
-                        12
+                        28
                     </h2>
                     <p>
-                        Countries
+                        Cabang
                     </p>
                 </div>
                 <div class="col-3 col-md-2 stats-detail">
@@ -42,7 +42,7 @@
                         3k
                     </h2>
                     <p>
-                        Hotel
+                        Proyek
                     </p>
                 </div>
                 <div class="col-3 col-md-2 stats-detail">
@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col text-center section-popular-header">
                         <h2>
-                            Popular Destination
+                            Unit Cabang
                         </h2>
                         <p>
                             Something that you never try
@@ -101,12 +101,12 @@
                 <div class="row">
                     <div class="col text-center">
                         <h2>
-                            They are Loving Us
+                            Testimoni
                         </h2>
                         <p>
-                            See what our customer
+                            Beberapa Proyek
                             <br />
-                            are saying
+                            yang ditampung
                         </p>
                     </div>
                 </div>
@@ -123,16 +123,15 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    Angga Luthfafi
+                                    UNIT 1
                                 </h3>
                                 <p class="testimonial">
-                                    "It was glorious and
-                                    I am so happy of it!"
+                                    "Deskripsi 1"
                                 </p>
                             </div>
                             <hr />
                             <p class="trip-to mt-2">
-                                Trip to Ubud
+                                Proyek 1
                             </p>
                         </div>
                     </div>
@@ -143,16 +142,15 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    Fadhil Jaidi
+                                    Unit 2
                                 </h3>
                                 <p class="testimonial">
-                                    "The trip was amazing and
-                                    I'm so happy of it!"
+                                    "Deskripsi 2"
                                 </p>
                             </div>
                             <hr />
                             <p class="trip-to mt-2">
-                                Trip to Nusa Penida
+                                Proyek 2
                             </p>
                         </div>
                     </div>
@@ -163,16 +161,15 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    Dede Inoen
+                                    Unit 3
                                 </h3>
                                 <p class="testimonial">
-                                    "I loved it when
-                                    I was shaking harder and harder!"
+                                    "Deskripsi 3"
                                 </p>
                             </div>
                             <hr />
                             <p class="trip-to mt-2">
-                                Trip to Karimun Jawa
+                                Proyek 3
                             </p>
                         </div>
                     </div>
