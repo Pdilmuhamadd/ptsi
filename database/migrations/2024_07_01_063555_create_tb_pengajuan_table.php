@@ -15,6 +15,9 @@ return new class extends Migration
     {
         Schema::create('tb_pengajuan', function (Blueprint $table) {
             $table->id();
+            $table->string('Deskripsi');
+            $table->string('PIC');
+            $table->date('Tanggal');
             $table->timestamps();
         });
     }
