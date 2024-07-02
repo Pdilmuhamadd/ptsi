@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-3 col-md-2 stats-detail">
                     <h2>
-                        3k
+                        3K
                     </h2>
                     <p>
                         Proyek
