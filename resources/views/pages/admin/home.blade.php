@@ -123,7 +123,7 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    UNIT 1
+                                    Unit 1
                                 </h3>
                                 <p class="testimonial">
                                     "Deskripsi 1"
