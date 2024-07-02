@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-    ZarsTravel
+    PT. surveyor Indonesia
 @endsection
 
 @section('content')
@@ -143,7 +143,7 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    Fadhil Jaidi
+                                    Fadhil Pratama
                                 </h3>
                                 <p class="testimonial">
                                     "The trip was amazing and
@@ -163,7 +163,7 @@
                                      alt="User"
                                      class="mb-4 rounded-circle" />
                                 <h3 class="mb-4">
-                                    Dede Inoen
+                                    Daud Krisna
                                 </h3>
                                 <p class="testimonial">
                                     "I loved it when
