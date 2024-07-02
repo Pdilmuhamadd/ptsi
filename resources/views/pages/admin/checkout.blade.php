@@ -12,7 +12,7 @@
                     <nav>
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
-                                Paket Travel
+                                Unit Cabang
                             </li>
                             <li class="breadcrumb-item ">
                                 Details

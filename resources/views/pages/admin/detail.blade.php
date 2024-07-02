@@ -12,7 +12,7 @@
                     <nav>
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
-                                Paket Travel
+                                Unit Cabang
                             </li>
                             <li class="breadcrumb-item active">
                                 Details
@@ -51,7 +51,7 @@
                     </div>
                     @endif
                     <h2>
-                        Tentang wisata
+                        Tentang Unit Cabang
                     </h2>
                     {!! $item->about !!}
                 </div>
@@ -122,7 +122,7 @@
                         </div>
                         <hr />
                         <h2>
-                            Trip informations
+                            Informasi Unit
                         </h2>
                         <table class="trip-informations">
                             <tr>
