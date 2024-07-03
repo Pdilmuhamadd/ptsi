@@ -41,7 +41,7 @@ header {
   position: relative;
   padding: 180px 0 165px;
   margin-top: -70px;
-  background-image: url("../images/header.jpg");
+  background-image: url("../images/header.png");
   background-size: cover;
 }
 header h1, header p {
@@ -123,10 +123,10 @@ header .btn-get-started:hover {
 }
 .section-popular-content .section-popular-travel .travel-button .btn-travel-details:hover {
   background-color: #9BE1DD;
-  color: #fff;
+  color: #051334;
 }
-.section-popular-content .section-popular-travel:hover {
-  background-color: #ed8535;
+.section-popular-content .section-popular-travel {
+  background-color: #051334;
   color: #fff;
 }
 
