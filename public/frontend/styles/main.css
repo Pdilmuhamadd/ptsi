@@ -41,7 +41,7 @@ header {
   position: relative;
   padding: 180px 0 165px;
   margin-top: -70px;
-  background-image: url("../images/header.png");
+  background-image: url("../images/header.jpg");
   background-size: cover;
 }
 header h1, header p {
