@@ -12,7 +12,7 @@
                     <nav>
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item">
-                                Unit Cabang
+                                Proyek
                             </li>
                             <li class="breadcrumb-item active">
                                 Details
@@ -51,7 +51,7 @@
                     </div>
                     @endif
                     <h2>
-                        Tentang Unit Cabang
+                        Tentang Proyek
                     </h2>
                     {!! $item->about !!}
                 </div>
@@ -122,12 +122,12 @@
                         </div>
                         <hr />
                         <h2>
-                            Informasi Unit
+                            Informasi Proyek
                         </h2>
                         <table class="trip-informations">
                             <tr>
                                 <th width="50%">
-                                    Date of departure
+                                    Tanggal Mulai
                                 </th>
                                 <td width="50%" class="text-right">
                                     {{\Carbon\Carbon::create($item->date_of_departure)->format('F n, Y')}}
@@ -135,7 +135,7 @@
                             </tr>
                             <tr>
                                 <th width="50%">
-                                    Duration
+                                    Target Selesai
                                 </th>
                                 <td width="50%" class="text-right">
                                     {{$item->duration}}
@@ -143,7 +143,7 @@
                             </tr>
                             <tr>
                                 <th width="50%">
-                                    Type
+                                    Status
                                 </th>
                                 <td width="50%" class="text-right">
                                     {{$item->type}}
@@ -151,10 +151,18 @@
                             </tr>
                             <tr>
                                 <th width="50%">
-                                    Prices
+                                    Harga
                                 </th>
                                 <td width="50%" class="text-right">
                                     Rp.{{$item->price}},00 / org
+                                </td>
+                            </tr>
+                            <tr>
+                                <th width="50%">
+                                    PIC
+                                </th>
+                                <td width="50%" class="text-right">
+                                    nama-pic
                                 </td>
                             </tr>
                         </table>

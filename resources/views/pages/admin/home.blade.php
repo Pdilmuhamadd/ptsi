@@ -61,7 +61,7 @@
                 <div class="row">
                     <div class="col text-center section-popular-header">
                         <h2>
-                            Unit Cabang
+                            Proyek
                         </h2>
                         <p>
                             Deskripsi
@@ -104,9 +104,9 @@
                             Testimoni
                         </h2>
                         <p>
-                            Beberapa Proyek
+                            Testimoni
                             <br />
-                            yang ditampung
+                            dari beberapa proyek
                         </p>
                     </div>
                 </div>
