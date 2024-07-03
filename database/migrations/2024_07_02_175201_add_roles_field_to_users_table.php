@@ -13,12 +13,8 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('galleries', function (Blueprint $table) {
-            $table->bigIncrements('id');
-            $table->integer('travel_package_id');
-            $table->text('image');
-            $table->softDeletes();
-            $table->timestamps();
+        Schema::table('users', function (Blueprint $table) {
+            $table->enum('roles', ['admin', 'user', 'editor'])->default('user');
         });
     }
 
@@ -29,6 +25,10 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('galleries');
+        Schema::table('users', function (Blueprint $table) {
+            $table->dropColumn('roles');
+                //USER, ADMIN
+
+        });
     }
 };
