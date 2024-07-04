@@ -18,12 +18,6 @@
                         <a href="{{ url('/') }}" class="nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
                     </li>
                     <li class="nav-item mx-md-2">
-                        <a href="/#popular" class="nav-link">Unit Cabang</a>
-                    </li>
-                    <li class="nav-item mx-md-2">
-                        <a href="/#testimoniContent" class="nav-link">Testimonial</a>
-                    </li>
-                    <li class="nav-item mx-md-2">
                         <a href="{{ route('form-pengajuan') }}" class="nav-link {{ Request::is('form-pengajuan') ? 'active' : '' }}">Form Pengajuan</a>
                     </li>
                 </ul>

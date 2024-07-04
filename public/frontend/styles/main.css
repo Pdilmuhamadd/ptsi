@@ -215,11 +215,11 @@ header .btn-get-started:hover {
   .section-footer a {
     color: rgb(5,19,52);
   }
-  
+
   .section-footer a:hover {
     color: #4de0e6;
   }
-  
+
   .section-footer ab {
     font:"Playfair Display", serif;
   }
@@ -227,13 +227,7 @@ header .btn-get-started:hover {
     text-align: right;
     color: #fff;
   }
-  
-  .contacts{
-    text-align: left;
-    font-family: "Arial", sans-serif;
-    font-weight: light;
-    font-size: small;
-  }
+
 .section-details-header {
   min-height: 310px;
   background-color: #e4e6eb;
@@ -478,3 +472,26 @@ header .btn-get-started:hover {
         font-size: 16px;
     }
 }
+
+.contacts {
+    display: flex;
+    justify-content: center; /* Pusatkan secara horizontal */
+    list-style-type: none; /* Hilangkan bullet point dari list */
+    padding: 0;
+}
+
+.contacts li {
+    margin: 0 10px; /* Beri margin antar elemen list untuk jarak */
+}
+
+.contacts li a {
+    text-decoration: none; /* Hilangkan underline pada link */
+    color: #fff; /* Warna teks sesuai kebutuhan */
+}
+
+.contacts{
+    text-align: left;
+    font-family: "Playfair Display", serif;
+    font-weight: light;
+    font-size: small;
+  }

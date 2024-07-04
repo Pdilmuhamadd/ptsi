@@ -63,27 +63,8 @@
            </div>
         </div>
     </div>
-
-    <style>
-        .contacts {
-            display: flex;
-            justify-content: center; /* Pusatkan secara horizontal */
-            list-style-type: none; /* Hilangkan bullet point dari list */
-            padding: 0;
-        }
-
-        .contacts li {
-            margin: 0 10px; /* Beri margin antar elemen list untuk jarak */
-        }
-
-        .contacts li a {
-            text-decoration: none; /* Hilangkan underline pada link */
-            color: #fff; /* Warna teks sesuai kebutuhan */
-            font-weight: bold; /* Sesuaikan berat teks sesuai kebutuhan */
-        }
-    </style>
     <div class="contacts">
-        <div class = "contacts justify-content-center align-items-center pt-4">
+        <div class = "justify-content-center align-items-center pt-4">
         <ul class="contacts">
             <li><a href="https://www.instagram.com/surveyor.id">Instagram</a></li>
             <li><a href="https://www.youtube.com/@surveyor_ID">Youtube</a></li>
