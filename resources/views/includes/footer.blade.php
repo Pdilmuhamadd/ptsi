@@ -98,4 +98,8 @@
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 </footer>
+=======
+</footer>
+>>>>>>> 7790501e7e72fde9277c8e64ae092aab30f68ad3

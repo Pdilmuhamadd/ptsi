@@ -100,8 +100,10 @@
                     <div class="col text-center">
                         <h2>
                             Unit Cabang dan Perwakilan
+                            Unit Cabang dan Perwakilan
                         </h2>
                         <p>
+                            Kantor Cabang dan Perwakilan Surveyor Indonesia
                             Kantor Cabang dan Perwakilan Surveyor Indonesia
                         </p>
                     </div>
