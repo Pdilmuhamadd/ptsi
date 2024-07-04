@@ -44,7 +44,7 @@
                                  Kota Jakarta Selatan, Indonesia</a></li>
                             <li><a href="#">0215265526</a></li>
                             <li><a href="#">surveyorindonesia@ptsi.co.id</a></li>
-                            
+
                         </ul>
                     </div>
                     <div class="col-12 col-lg-3">
@@ -98,8 +98,4 @@
         </div>
     </div>
 </div>
-<<<<<<< HEAD
 </footer>
-=======
-</footer>
->>>>>>> 7790501e7e72fde9277c8e64ae092aab30f68ad3
