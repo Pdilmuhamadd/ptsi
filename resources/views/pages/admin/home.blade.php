@@ -64,9 +64,7 @@
                             Proyek
                         </h2>
                         <p>
-                            Deskripsi
-                            <br />
-                            Deskripsi
+                            Beberapa proyek yang kami tampung
                         </p>
                     </div>
                 </div>
@@ -101,12 +99,10 @@
                 <div class="row">
                     <div class="col text-center">
                         <h2>
-                            Testimoni
+                            Unit Cabang dan Perwakilan
                         </h2>
                         <p>
-                            Testimoni
-                            <br />
-                            dari beberapa proyek
+                            Kantor Cabang dan Perwakilan Surveyor Indonesia
                         </p>
                     </div>
                 </div>

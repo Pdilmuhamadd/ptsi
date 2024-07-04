@@ -15,15 +15,19 @@
             <div class="collapse navbar-collapse" id="navb">
                 <ul class="navbar-nav ml-auto mr-3">
                     <li class="nav-item mx-md-2">
-                        <a href="{{url('/')}}" class="nav-link active">Home</a>
+                        <a href="{{ url('/') }}" class="nav-link {{ Request::is('/') ? 'active' : '' }}">Home</a>
                     </li>
                     <li class="nav-item mx-md-2">
-                        <a href=/#popular class="nav-link">Unit Cabang</a>
+                        <a href="/#popular" class="nav-link">Unit Cabang</a>
                     </li>
                     <li class="nav-item mx-md-2">
                         <a href="/#testimoniContent" class="nav-link">Testimonial</a>
                     </li>
+                    <li class="nav-item mx-md-2">
+                        <a href="{{ route('form-pengajuan') }}" class="nav-link {{ Request::is('form-pengajuan') ? 'active' : '' }}">Form Pengajuan</a>
+                    </li>
                 </ul>
+
 
                 @guest
                     <!-- Mobile Button -->

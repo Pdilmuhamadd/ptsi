@@ -58,12 +58,12 @@
                 <div class="features row">
                     <div class="col-md-4">
                         <div class="description">
-                            <img src="{{url('frontend/images/lc-event.png')}}"
+                            <img src="{{url('frontend/images/lc-unit.svg')}}"
                             alt=""
                             class="features-image"/>
                             <div class="description">
                                 <h3>
-                                    Featured Event
+                                    Unit
                                 </h3>
                                 <p>
                                     {{$item->featured_event}}
@@ -73,12 +73,12 @@
                     </div>
                     <div class="col-md-4 border-left">
                         <div class="description">
-                            <img src="{{url('frontend/images/lc-language.png')}}"
+                            <img src="{{url('frontend/images/lc-PIC.svg')}}"
                             alt=""
                             class="features-image"/>
                             <div class="description">
                                 <h3>
-                                    Language
+                                    PIC
                                 </h3>
                                 <p>
                                     {{$item->language}}
@@ -88,12 +88,12 @@
                     </div>
                     <div class="col-md-4 border-left">
                         <div class="description">
-                            <img src="{{url('frontend/images/lc-foods.png')}}"
+                            <img src="{{url('frontend/images/lc-status.svg')}}"
                             alt=""
                             class="features-image"/>
                             <div class="description">
                                 <h3>
-                                    Foods
+                                    Status
                                 </h3>
                                 <p>
                                     {{$item->foods}}
@@ -143,26 +143,10 @@
                             </tr>
                             <tr>
                                 <th width="50%">
-                                    Status
+                                    Anggaran
                                 </th>
                                 <td width="50%" class="text-right">
-                                    {{$item->type}}
-                                </td>
-                            </tr>
-                            <tr>
-                                <th width="50%">
-                                    Harga
-                                </th>
-                                <td width="50%" class="text-right">
-                                    Rp.{{$item->price}},00 / org
-                                </td>
-                            </tr>
-                            <tr>
-                                <th width="50%">
-                                    PIC
-                                </th>
-                                <td width="50%" class="text-right">
-                                    nama-pic
+                                    Rp.{{$item->price}},00
                                 </td>
                             </tr>
                         </table>
