@@ -2,7 +2,7 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section company-info">
-                    <h5>PT Surveyor Indonesia</h5>
+                <h5><b>PT. Surveyor Indonesia</h5></b>
                     Jl. Jend. Gatot Subroto Kav.56<br>
                     Jakarta 12950 - Indonesia</p>
                 </div>
@@ -12,7 +12,7 @@
                 </div>
                 <div class="footer-section logo">
                     <div class="col-12 col-lg-3">
-                        <a href="{{url('https://bumn.go.id/')}}" class="bumn-brand">
+                        <a href="https://bumn.go.id/" Target="_blank" rel="noopener noreferrer" class="bumn-brand">
                             <h5>
                             <img src="{{url('frontend/images/bumn.png')}}" alt="bumn"/>
                             </h5>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 PT Surveyor Indonesia. All Rights Reserved.</p>
+                <p><b>&copy; 2024 PT Surveyor Indonesia. All Rights Reserved.</p>
                 <div class="social-media">
                     <a href="https://www.facebook.com/surveyor.id" Target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
                     <a href="https://www.linkedin.com/company/suveryor-id/" Target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"></i></a>
