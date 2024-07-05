@@ -4,7 +4,14 @@
 
 @section('content')
     <link rel="stylesheet" href="{{ asset('css/main.css') }}">
-
+    <style>
+        body {
+            background-image: url("{{ asset('frontend/images/header.png') }}");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    </style>
     <main>
         <h1 class="text-center">Form Pengajuan Proyek</h1>
 
@@ -47,7 +54,7 @@
                     <option value="Diterima">Diterima</option>
                     <option value="Diproses Studi Kelayakan">Diproses Studi Kelayakan</option>
                     <option value="Pengembangan">Pengembangan</option>
-                    <option value="Selesai">selesai</option>
+                    <option value="Selesai">Selesai</option>
                 </select>
             </div>
 
