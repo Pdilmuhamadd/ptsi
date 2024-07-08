@@ -41,7 +41,7 @@
                         <div class="card-proyek text-center d-flex flex-column">
                             <div class="tahap-proyek">PERENCANAAN</div>
                             <div class="project-list">
-                                <div class="project">
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">
                                     Proyek#7
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#7</p>
@@ -53,7 +53,7 @@
                                         <p>Status: </p>
                                     </div>
                                 </div>
-                                <div class="project">
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">
                                     Proyek#1
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#1</p>
@@ -72,7 +72,7 @@
                         <div class="card-proyek text-center d-flex flex-column">
                             <div class="tahap-proyek">ANALISIS <br>&</br> DESAIN</div>
                             <div class="project-list">
-                                <div class="project">Proyek#6
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#6
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#6</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -83,7 +83,7 @@
                                         <p>Status:</p>
                                     </div>
                                 </div>
-                                <div class="project">Proyek#9
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#9
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#9</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -101,7 +101,7 @@
                         <div class="card-proyek text-center d-flex flex-column">
                             <div class="tahap-proyek">PENGEMBANGAN</div>
                             <div class="project-list">
-                                <div class="project5">Proyek #5
+                                <div class="project5" onclick="location.href='{{ route('detail') }}'">Proyek #5
                                 <div class="project-details5">
                                         <p>Nama Proyek: Proyek#5</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -112,7 +112,7 @@
                                         <p>Status:</p>
                                     </div>
                                 </div>
-                                <div class="project">Proyek#8
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#8
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#8</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -130,7 +130,7 @@
                         <div class="card-proyek text-center d-flex flex-column">
                             <div class="tahap-proyek">PENGUJIAN</div>
                             <div class="project-list">
-                                <div class="project">Proyek#2
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#2
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#2</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -142,7 +142,7 @@
                                     </div>
                                 </div>
                                 <div class="project4">Proyek#4
-                                    <div class="project-details4">
+                                    <div class="project-details4" onclick="location.href='{{ route('detail') }}'">
                                         <p>Nama Proyek: Proyek#4</p>
                                         <p>Mulai: 00-00-0000</p>
                                         <p>Target Selesai: 00-00-0000</p>
@@ -153,7 +153,7 @@
                                     </div>
                                 </div>
                                 <div class="project">Proyek#10
-                                    <div class="project-details">
+                                    <div class="project-details" onclick="location.href='{{ route('detail') }}'">
                                         <p>Nama Proyek: Proyek#10</p>
                                         <p>Mulai: 00-00-0000</p>
                                         <p>Target Selesai: 00-00-0000</p>
@@ -170,7 +170,7 @@
                         <div class="card-proyek text-center d-flex flex-column">
                             <div class="tahap-proyek">IMPLEMENTASI</div>
                             <div class="project-list">
-                                <div class="project">Proyek#11
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#11
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#11</p>
                                         <p>Mulai: 00-00-0000</p>
@@ -181,7 +181,7 @@
                                         <p>Status: </p>
                                     </div>
                                 </div>
-                                <div class="project">Proyek#3
+                                <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#3
                                     <div class="project-details">
                                         <p>Nama Proyek: Proyek#3</p>
                                         <p>Mulai: 00-00-0000</p>
