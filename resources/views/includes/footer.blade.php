@@ -23,16 +23,28 @@
                             >
                             </button>
                         </a>
+                        <a href="https://idsurvey.id/" Target="_blank" rel="noopener noreferrer" class="bumn-brand">
+                            <h5>
+                            <img src="{{url('frontend/images/idsurvey.png')}}" alt="idsurvey"/>
+                            </h5>
+                            <button class="navbar-toggler navbar-toggler-right"
+                             type="button"
+                            data-toggle="collapse"
+                            data-targer="#navb"
+                            >
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
             <div class="footer-bottom">
                 <p><b>&copy; 2024 PT Surveyor Indonesia. All Rights Reserved.</p>
                 <div class="social-media">
-                    <a href="https://www.facebook.com/surveyor.id" Target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
-                    <a href="https://www.linkedin.com/company/suveryor-id/" Target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"></i></a>
-                    <a href="https://www.youtube.com/@surveyor_ID" Target="_blank" rel="noopener noreferrer"><i class="fa fa-youtube"></i></a>
-                    <a href="https://www.instagram.com/surveyor.id" Target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram"></i></a>
+                <a href="https://maps.app.goo.gl/VGmN7u2Ua2s6TsBn8" Target="_blank" rel="noopener noreferrer"><img src="/frontend/images/map-pin.svg" alt="location"</img></a>
+                    <a href="https://www.facebook.com/surveyor.id" Target="_blank" rel="noopener noreferrer"><img src="{{url('frontend/images/facebook.svg')}}" alt="fb"/></a>
+                    <a href="https://www.linkedin.com/company/suveryor-id/" Target="_blank" rel="noopener noreferrer"><img src="/frontend/images/linkedin.svg" alt = "linkedin"</img></a>
+                    <a href="https://www.youtube.com/@surveyor_ID" Target="_blank" rel="noopener noreferrer"><img src="/frontend/images/youtube.svg" alt = "youtube"</img></a>
+                    <a href="https://www.instagram.com/surveyor.id" Target="_blank" rel="noopener noreferrer"><img src="/frontend/images/instagram.svg" alt="instagram"</img></a>
                 </div>
             </div>
         </div>
