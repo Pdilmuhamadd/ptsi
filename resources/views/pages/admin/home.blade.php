@@ -38,52 +38,71 @@
             <div class="container">
                 <div class="section-popular-travel row justify-content-center">
                     <div class="col-2">
-                        <div
-                            class="card-travel text-center d-flex flex-column"
-                        >
+                        <div class="card-travel text-center d-flex flex-column">
                             <div class="travel-location">Perencanaan</div>
-                        </div>
-                    </div>
-                    <div class="col-2">
-                        <div
-                            class="card-travel text-center d-flex flex-column"
-                        >
-                            <div class="travel-location">Analisis & Kebutuhan</div>
-                        </div>
-                    </div>
-                    <div class="col-2">
-                        <div
-                            class="card-travel text-center d-flex flex-column"
-                        >
-                            <div class="travel-location">Pengembangan</div>
-                        </div>
-                    </div>
-                    <div class="col-2">
-                        <div
-                            class="card-travel text-center d-flex flex-column"
-                        >
-                            <div class="travel-location">Pengujian</div>
-                            <div class="travel-button mt-auto">
-                                <a href="{route('detail')}" class="btn btn-travel-details px-4">
-                                    proyek 4
-                                    <div class="tooltip">
-                                        <p>Nama Proyek:</p>
-                                        <p>Mulai:</p>
-                                        <p>Target Selesai:</p>
-                                        <p>PIC:</p>
-                                        <p>User:</p>
-                                        <p>Note:</p>
-                                        <p>Status:</p>
+                            <div class="project-list">
+                                <div class="project">
+                                    Proyek#7
+                                    <div class="project-details">
+                                        <p>Nama Proyek: Proyek#7</p>
+                                        <p>Mulai: 00-00-0000</p>
+                                        <p>Target Selesai: 00-00-0000</p>
+                                        <p>PM: </p>
+                                        <p>User: </p>
+                                        <p>Nilai: 000</p>
+                                        <p>Status: In Progress</p>
                                     </div>
-                                </a>
+                                </div>
+                                <div class="project">
+                                    Proyek#1
+                                    <div class="project-details">
+                                        <p>Nama Proyek: Proyek#7</p>
+                                        <p>Mulai: 00-00-0000</p>
+                                        <p>Target Selesai: 00-00-0000</p>
+                                        <p>PM: </p>
+                                        <p>User: </p>
+                                        <p>Nilai: 000</p>
+                                        <p>Status: In Progress</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-2">
-                        <div
-                            class="card-travel text-center d-flex flex-column"
-                        >
+                        <div class="card-travel text-center d-flex flex-column">
+                            <div class="travel-location">Analisis & Desain</div>
+                            <div class="project-list">
+                                <div class="project">Proyek#6</div>
+                                <div class="project">Proyek#9</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="card-travel text-center d-flex flex-column">
+                            <div class="travel-location">Pengembangan</div>
+                            <div class="project-list">
+                                <div class="project">Proyek#5</div>
+                                <div class="project">Proyek#8</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="card-travel text-center d-flex flex-column">
+                            <div class="travel-location">Pengujian</div>
+                            <div class="project-list">
+                                <div class="project">Proyek#2</div>
+                                <div class="project">Proyek#4</div>
+                                <div class="project">Proyek#10</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="card-travel text-center d-flex flex-column">
                             <div class="travel-location">Implementasi</div>
+                            <div class="project-list">
+                                <div class="project">Proyek#1</div>
+                                <div class="project">Proyek#3</div>
+                            </div>
                         </div>
                     </div>
                 </div>
