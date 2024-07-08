@@ -39,7 +39,7 @@
                 <div class="section-proyek-travel row justify-content-center">
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="tahap-proyek">Perencanaan</div>
+                            <div class="tahap-proyek">PERENCANAAN</div>
                             <div class="project-list">
                                 <div class="project">
                                     Proyek#7
@@ -70,7 +70,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="tahap-proyek">Analisis & Desain</div>
+                            <div class="tahap-proyek">ANALISIS <br>&</br> DESAIN</div>
                             <div class="project-list">
                                 <div class="project">Proyek#6</div>
                                 <div class="project">Proyek#9</div>
@@ -79,7 +79,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="tahap-proyek">Pengembangan</div>
+                            <div class="tahap-proyek">PENGEMBANGAN</div>
                             <div class="project-list">
                                 <div class="project5">Proyek #5
                                 <div class="project-details5">
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="tahap-proyek">Pengujian</div>
+                            <div class="tahap-proyek">PENGUJIAN</div>
                             <div class="project-list">
                                 <div class="project">Proyek#2</div>
                                 <div class="project4">Proyek#4
@@ -118,7 +118,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="tahap-proyek">Implementasi</div>
+                            <div class="tahap-proyek">IMPLEMENTASI</div>
                             <div class="project-list">
                                 <div class="project">Proyek#1</div>
                                 <div class="project">Proyek#3</div>
