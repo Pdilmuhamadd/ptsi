@@ -56,7 +56,7 @@
                                 <div class="project">
                                     Proyek#1
                                     <div class="project-details">
-                                        <p>Nama Proyek: Proyek#7</p>
+                                        <p>Nama Proyek: Proyek#1</p>
                                         <p>Mulai: 00-00-0000</p>
                                         <p>Target Selesai: 00-00-0000</p>
                                         <p>PM: </p>
@@ -81,7 +81,17 @@
                         <div class="card-travel text-center d-flex flex-column">
                             <div class="travel-location">Pengembangan</div>
                             <div class="project-list">
-                                <div class="project">Proyek#5</div>
+                                <div class="project5">Proyek #5
+                                <div class="project-details5">
+                                        <p>Nama Proyek: Proyek#5</p>
+                                        <p>Mulai: 00-00-0000</p>
+                                        <p>Target Selesai: 00-00-0000</p>
+                                        <p>PM: </p>
+                                        <p>User: </p>
+                                        <p>Nilai: 000</p>
+                                        <p>Status: In Progress</p>
+                                    </div>
+                                </div>
                                 <div class="project">Proyek#8</div>
                             </div>
                         </div>
@@ -91,7 +101,17 @@
                             <div class="travel-location">Pengujian</div>
                             <div class="project-list">
                                 <div class="project">Proyek#2</div>
-                                <div class="project">Proyek#4</div>
+                                <div class="project4">Proyek#4
+                                    <div class="project-details4">
+                                        <p>Nama Proyek: Proyek#4</p>
+                                        <p>Mulai: 00-00-0000</p>
+                                        <p>Target Selesai: 00-00-0000</p>
+                                        <p>PM: </p>
+                                        <p>User: </p>
+                                        <p>Nilai: 000</p>
+                                        <p>Status: In Progress</p>
+                                    </div>
+                                </div>
                                 <div class="project">Proyek#10</div>
                             </div>
                         </div>
