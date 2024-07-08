@@ -19,10 +19,10 @@
     </header>
 
     <main>
-        <section class="section-popular" id="popular">
+        <section class="section-proyek" id="popular">
             <div class="container">
                 <div class="row">
-                    <div class="col text-center section-popular-header">
+                    <div class="col text-center section-proyek-header">
                         <h2>
                             Dashboard
                         </h2>
@@ -34,12 +34,12 @@
             </div>
         </section>
 
-        <section class="section-popular-content" id="popularContent">
+        <section class="section-proyek-content" id="popularContent">
             <div class="container">
-                <div class="section-popular-travel row justify-content-center">
+                <div class="section-proyek-travel row justify-content-center">
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="travel-location">Perencanaan</div>
+                            <div class="tahap-proyek">Perencanaan</div>
                             <div class="project-list">
                                 <div class="project">
                                     Proyek#7
@@ -70,7 +70,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="travel-location">Analisis & Desain</div>
+                            <div class="tahap-proyek">Analisis & Desain</div>
                             <div class="project-list">
                                 <div class="project">Proyek#6</div>
                                 <div class="project">Proyek#9</div>
@@ -79,7 +79,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="travel-location">Pengembangan</div>
+                            <div class="tahap-proyek">Pengembangan</div>
                             <div class="project-list">
                                 <div class="project5">Proyek #5
                                 <div class="project-details5">
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="travel-location">Pengujian</div>
+                            <div class="tahap-proyek">Pengujian</div>
                             <div class="project-list">
                                 <div class="project">Proyek#2</div>
                                 <div class="project4">Proyek#4
@@ -118,7 +118,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-travel text-center d-flex flex-column">
-                            <div class="travel-location">Implementasi</div>
+                            <div class="tahap-proyek">Implementasi</div>
                             <div class="project-list">
                                 <div class="project">Proyek#1</div>
                                 <div class="project">Proyek#3</div>
