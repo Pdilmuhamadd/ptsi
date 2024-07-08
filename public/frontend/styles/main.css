@@ -180,7 +180,7 @@ body {
     z-index: 1;
     top: 100%;
     left: 0;
-    width: 100%;
+    width: 250%;
   }
 
   .project:hover .project-details {
@@ -261,7 +261,7 @@ body {
     z-index: 1;
     top: 100%;
     left: 0;
-    width: 100%;
+    width: 250%;
   }
 
   .project5:hover .project-details5 {
@@ -293,7 +293,7 @@ body {
     z-index: 1;
     top: 100%;
     left: 0;
-    width: 100%;
+    width: 250%;
   }
 
   .project4:hover .project-details4 {
