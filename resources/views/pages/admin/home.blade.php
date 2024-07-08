@@ -50,7 +50,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                                 <div class="project">
@@ -62,7 +62,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status:</p>
                                     </div>
                                 </div>
                                 <div class="project">Proyek#9
@@ -91,7 +91,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                             </div>
@@ -109,7 +109,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status:</p>
                                     </div>
                                 </div>
                                 <div class="project">Proyek#8
@@ -120,7 +120,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                             </div>
@@ -138,7 +138,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status:</p>
                                     </div>
                                 </div>
                                 <div class="project4">Proyek#4
@@ -149,7 +149,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                                 <div class="project">Proyek#10
@@ -160,7 +160,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                                 <div class="project">Proyek#3
@@ -189,7 +189,7 @@
                                         <p>PM: </p>
                                         <p>User: </p>
                                         <p>Nilai: 000</p>
-                                        <p>Status: In Progress</p>
+                                        <p>Status: </p>
                                     </div>
                                 </div>
                             </div>
