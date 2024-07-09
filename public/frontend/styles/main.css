@@ -87,7 +87,7 @@ header .btn-get-started:hover {
 }
 
 .section-proyek .section-proyek-header {
-  margin-top: 75px;
+  margin-top: 175px;
 }
 
 .section-proyek .section-proyek-header h2, .section-proyek .section-proyek-header p {
@@ -105,8 +105,8 @@ header .btn-get-started:hover {
 }
 
 .section-proyek-content .section-proyek-travel .card-proyek {
-  min-height: 900px;
-  min-width: 175px;
+  min-height: 650px;
+  min-width: 220px;
   background-color: #ffffff;
   color: #fff;
   padding: 10px;
@@ -136,19 +136,23 @@ header .btn-get-started:hover {
   background-color: #051334;
   color: #fff;
   border-radius: 8px;
+  margin-left: -120px;
+  margin-right: -120px;
 }
 
 .project-list {
-  margin-top: 20px;
+  margin-top: 5px;
 }
 
 .project {
   background-color: #051334;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 10px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .project .project-details {
@@ -161,7 +165,7 @@ header .btn-get-started:hover {
   z-index: 1;
   top: 100%;
   left: 0;
-  width: 200%;
+  width: 300%;
 }
 
 .project:hover .project-details {
@@ -227,24 +231,26 @@ max-height: 20px;
 
 .project5 {
   background-color: orange;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 10px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .project-details5{
-  display: none;
-  background-color: #051334;
-  padding: 10px;
-  border-radius: 5px;
-  margin-top: 10px;
-  position: absolute;
-  z-index: 1;
-  top: 100%;
-  left: 0;
-  width: 200%;
+    display: none;
+    background-color: #051334;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    width: 300%;
 }
 
 .project5:hover .project-details5 {
@@ -258,11 +264,13 @@ max-height: 20px;
 .project4 {
   background-color: red;
   color: #ffffff;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 10px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .project-details4{
@@ -276,7 +284,7 @@ max-height: 20px;
   z-index: 1;
   top: 100%;
   left: 0;
-  width: 200%;
+  width: 300%;
 }
 
 .project4:hover .project-details4 {
