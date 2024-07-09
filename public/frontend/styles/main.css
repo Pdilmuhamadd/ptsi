@@ -137,17 +137,20 @@ header .btn-get-started:hover {
   color: #fff;
   border-radius: 8px;
   margin-left: -120px;
+  margin-bottom: -100px;
   margin-right: -120px;
 }
 
 .project-list {
   margin-top: 5px;
+  margin-left: -50px;
+  margin-right: -50px;
 }
 
 .project {
   background-color: #051334;
   padding: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 4px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
@@ -165,7 +168,7 @@ header .btn-get-started:hover {
   z-index: 1;
   top: 100%;
   left: 0;
-  width: 300%;
+  width: 150%;
 }
 
 .project:hover .project-details {
@@ -232,7 +235,7 @@ max-height: 20px;
 .project5 {
   background-color: orange;
   padding: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 4px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
@@ -250,7 +253,7 @@ max-height: 20px;
     z-index: 1;
     top: 100%;
     left: 0;
-    width: 300%;
+    width: 150%;
 }
 
 .project5:hover .project-details5 {
@@ -265,7 +268,7 @@ max-height: 20px;
   background-color: red;
   color: #ffffff;
   padding: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 4px;
   border-radius: 5px;
   cursor: pointer;
   position: relative;
@@ -284,7 +287,7 @@ max-height: 20px;
   z-index: 1;
   top: 100%;
   left: 0;
-  width: 300%;
+  width: 150%;
 }
 
 .project4:hover .project-details4 {
