@@ -60,7 +60,7 @@
                     </div>
                     <div class="col-2">
                         <div class="card-proyek text-center d-flex flex-column">
-                            <div class="tahap-proyek">ANALISIS <br>&</br> DESAIN</div>
+                            <div class="tahap-proyek">ANALISIS DESAIN</div>
                             <div class="project-list">
                                 <div class="project" onclick="location.href='{{ route('detail') }}'">Proyek#6
                                     <div class="project-details">
