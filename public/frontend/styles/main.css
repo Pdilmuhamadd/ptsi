@@ -76,36 +76,17 @@ body {
     color: #fff;
   }
 
-  .section-stats {
-    margin-top: -50px;
-  }
-
-  .section-stats .stats-detail {
-    padding-top: 15px;
-    background-color: #fff;
-    padding-left: 40px;
-  }
-
-  .section-stats h2 {
-    font-size: 30px;
-    margin-bottom: 0;
-  }
-
-  .section-stats p {
-    font-size: 20px;
-    font-weight: lighter;
-  }
+/* Dashboard Proyek */
 
   .section-proyek {
     min-height: 540px;
-    background: rgb(250,250,250);
-    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(5,19,52,1) 30%);
+    background: rgb(0, 0, 0);
     margin-top: -50px;
     margin-bottom: -230px;
   }
 
   .section-proyek .section-proyek-header {
-    margin-top: 150px;
+    margin-top: 75px;
   }
 
   .section-proyek .section-proyek-header h2, .section-proyek .section-proyek-header p {
@@ -122,17 +103,14 @@ body {
     font-size: 18px;
   }
 
-  .section-proyek-travel {
-    border-radius: 8px;
-  }
-
   .section-proyek-content .section-proyek-travel .card-proyek {
-    min-height: 380px;
+    min-height: 700px;
     background-color: #ffffff;
     color: #fff;
-    padding: 30px;
+    padding: 10px;
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     border-radius: 8px;
   }
 
@@ -155,6 +133,7 @@ body {
   .section-proyek-content .section-proyek-travel {
     background-color: #051334;
     color: #fff;
+    border-radius: 8px;
   }
 
   .project-list {
@@ -190,6 +169,8 @@ body {
   .project:hover {
     background-color: #1bf0d3;
   }
+
+/* footer */
 
   .footer {
     background: rgb(5,19,52);
@@ -303,6 +284,8 @@ body {
   .project4:hover {
     background-color: rgb(207, 39, 39);
   }
+
+/* form pengajuan */
 
   .form-pengajuan {
     max-width: 600px;
