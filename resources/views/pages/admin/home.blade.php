@@ -5,19 +5,9 @@
 @endsection
 
 @section('content')
-    <!-- Header -->
-    <header class="text-center">
-        <h1>
-            Pantau Proyek dengan Mudah
-        </h1>
-        <p class="mt-3">
-            Lacak kemajuan proyek dengan baik dan pastikan setiap langkah berjalan sesuai rencana.
-        </p>
-        <a href="#proyek" class="btn btn-get-started px-4 mt-4">
-            Get Started
-        </a>
-    </header>
 
+
+    <!-- main -->
     <main>
         <section class="section-proyek" id="proyek">
             <div class="container">
@@ -199,4 +189,5 @@
             </div>
         </section>
     </main>
+    <!--main end-->
 @endsection
