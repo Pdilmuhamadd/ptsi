@@ -2,6 +2,8 @@
 
 use GuzzleHttp\Middleware;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DetailController;
+use App\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,11 +19,19 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'App\Http\Controllers\HomeController@index')
     ->name('home');
 
+Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/proyek/{id}', [DetailController::class, 'show'])->name('detail');
+
+
 Route::get('/form-pengajuan', 'App\Http\Controllers\PengajuanController@index')
     ->name('form-pengajuan');
 
-Route::get('/detail/{slug}', 'App\Http\Controllers\DetailController@index')
-    ->name('detail');
+Route::get('/detail', [DetailController::class, 'index']);
+Route::post('/detail', [DetailController::class, 'store']);
+Route::get('/detail/{id}', [DetailController::class, 'show']);
+Route::put('/detail/{id}', [DetailController::class, 'update']);
+Route::delete('/detail/{id}', [DetailController::class, 'destroy']);
+
 
 Route::post('/checkout/{id}', 'App\Http\Controllers\CheckoutController@process')
     ->name('checkout-process')
