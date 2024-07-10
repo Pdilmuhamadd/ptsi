@@ -2,13 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\TravelPackage;
+use App\Models\paket_proyek; // Pastikan Anda mengimpor model yang benar
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-
-
     /**
      * Show the application dashboard.
      *
@@ -16,9 +14,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $items = TravelPackage::with(['galleries'])->get();
-        return view('pages.admin.home',[
-            'items' => $items
-        ]);
+        $proyeks = paket_proyek::all(); // Ambil semua data proyek
+        return view('pages.admin.home', compact('proyeks'));
     }
 }
