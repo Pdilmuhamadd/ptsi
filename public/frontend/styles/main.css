@@ -149,9 +149,9 @@ header .btn-get-started:hover {
 
 .project {
   background-color: #051334;
-  padding: 5px;
+  padding: 1px;
   margin-bottom: 4px;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   position: relative;
   margin-left: 50px;
